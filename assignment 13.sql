@@ -1,4 +1,4 @@
-use table pwskills
+
 # Table 1: Customers
 
 Create Table Customers(
